@@ -16,3 +16,9 @@ difference for read and write? Why?
 
 Read Assignment1.pdf for further details.
 Solution posted in the zip folder.
+
+
+Assignment -2 : 
+In  this  assignment,  you  will  implement a  cache  replacement  policy,  i.e.,SHiP(Signature-based  Hit Predictor),for  the  last  level  cache,  and  compareitsperformance  with the built-in LRU and  RRIP cache replacement policiesofgem5.
+
+See Assignment2_v4.pdf for further details. Solution present in the zip file.
