@@ -22,3 +22,17 @@ Assignment -2 :
 In  this  assignment,  you  will  implement a  cache  replacement  policy,  i.e.,SHiP(Signature-based  Hit Predictor),for  the  last  level  cache,  and  compareitsperformance  with the built-in LRU and  RRIP cache replacement policiesofgem5.
 
 See Assignment2_v4.pdf for further details. Solution present in the zip file.
+
+
+Assignment -3 :
+In this assignment, you will implement gDACbranch predictor and compare its performance with other  built-in  branch  predictors  in  gem5.In  addition,  you  need  to  provide  a  way  to  specify  branch predictor configuration in the command line (similar to what you did on replacement policy in Assignment 2).The implementation should be based on a latest gem5 commit.It should contain modifications to the existing gem5 source code and additions of new source files.
+
+See Assignment3.pdf for further details. Solution present in corresponding zip file.
+
+
+Assignment -4 :
+In  this  assignment,  you  will  execute  matrix  multiplication  on  different  devices  (CPU  or  GPU)  using an OpenCLprogram. The goal of this assignment is to compare the performance of single thread execution with multi-thread execution as well as to experience OpenCL programming framework
+
+See Assignment4.pdf for further details. Solution present in corresponding zip file.
+
+
